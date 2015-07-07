@@ -6,7 +6,7 @@ define([
     'use strict';
 
     describe('Component', function () {
-        it('Should be an object', function () {
+        it('Should be an function', function () {
             expect(Component).to.be.a('function');
         });
     });
