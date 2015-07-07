@@ -1,7 +1,6 @@
-# js-project
+# JavaScript Project Skeleton
 
 Run `npm start` then open http://localhost:8081/.
-
 
 ## Tests
 
