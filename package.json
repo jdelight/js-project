@@ -1,0 +1,31 @@
+{
+  "name": "js-project",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "prestart": "npm install && bower install",
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "chai": "^3.0.0",
+    "http-server": "^0.8.0",
+    "karma": "^0.12.37",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-coverage": "^0.4.2",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-fixture": "^0.2.5",
+    "karma-mocha": "^0.2.0",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "karma-requirejs": "^0.2.2",
+    "karma-sinon": "^1.0.4",
+    "mocha": "^2.2.5",
+    "phantomjs": "^1.9.17",
+    "sinon": "^1.15.4"
+  }
+}

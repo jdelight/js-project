@@ -1,0 +1,24 @@
+{
+  "name": "js-project",
+  "version": "0.1.0",
+  "authors": [
+    "jdelight <james@jdelight.co.uk>"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "requirejs": "~2.1.18"
+  }
+}
